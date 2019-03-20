@@ -3,7 +3,7 @@ README FILE
                  Lennard Jones Particle Interaction Simulation
   ------------Authors: Alexander Kintrea(B105147) & Gonzalo Gil(B101878)------------
 
-Welcome, dearest marker! This Code simulates a Lennard Jones (LJ) Particle Potential using
+Welcome, dudes! This Code simulates a Lennard Jones (LJ) Particle Potential using
 Python and VMD for Argon in Solid, Liquid, Gas states - relevent 14/03/2019.
 
 ------------------------------------------------------------------------------------------
